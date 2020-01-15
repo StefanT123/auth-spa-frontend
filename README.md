@@ -1,22 +1,3 @@
-# auth-spa-frontend
+### Nuxt auth front-end for Laravel API
 
-> My astounding Nuxt.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm run install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+#### [If you want to know more, here is the post explaining it](https://dev.to/stefant123/secure-authentication-in-nuxt-spa-with-laravel-as-back-end-19a9)

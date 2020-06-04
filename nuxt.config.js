@@ -54,7 +54,7 @@ export default {
   ** See https://axios.nuxtjs.org/options
   */
   axios: {
-    baseURL: 'http://auth-spa.web/api/',
+    baseURL: 'http://auth-api.web/api/',
     credentials: true,
   },
   /*
